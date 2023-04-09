@@ -21,5 +21,5 @@ This will create a new directory called “HelloWord” with a basic Expo projec
                 expo start
 7.	Install the Expo Go app on your mobile device from the app store.
 8.	Use the Expo Go app to scan the QR code displayed in the Expo Developer tools which will load your app on your mobile device.
-![image](https://user-images.githubusercontent.com/41486299/230752044-beb9e794-4d72-4fea-942f-bf11615a941f.png)
+
 
