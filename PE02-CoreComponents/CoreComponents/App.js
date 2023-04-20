@@ -7,7 +7,7 @@ const App = () => {
       <View>
         <Image
           source={{
-            uri: './assets/icon.png',
+            uri: 'https://github.com/cityuseattle/cs624-spring-hos02-yared-shewarade/blob/main/my-mobile-app/assets/icon.png',
           }}
           style={{width: 300, height: 300}}   
         />
