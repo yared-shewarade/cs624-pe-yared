@@ -7,7 +7,8 @@ const TodoList = ({ todos }) => {
     return (
       <Todo
         key={todo.todoIndex}
-        todo={todo} />
+        todo={todo} 
+      />
     )
   })
   return (
