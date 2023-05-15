@@ -15,6 +15,7 @@ This will create a new directory called “HelloWord” with a basic Expo projec
                         Image
                         Platform
     Also create components like:
+    
                         container
                         flexContainer
                         cardcontainer
